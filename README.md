@@ -10,10 +10,11 @@ suma total como salida en consola.
 Para la ejecucion del codigo se debe de realizar los siguientes pasos:
 1. Descargar el archivo PuntoUno.java
 2. Guardarlo en una carpeta
-3. Ingresar a la carpeta y en la direccion de la parte superior escribir cmd
-4. En consola ingresa el comando javac PuntoUno.java y dar enter
-5. En la siguiente linea ingresar java PuntoUno
-6. Ingresar la entrada y en la siguiente linea el termino
+3. Ingresar a la carpeta
+4. dar clic derecho y seleccionar "Open Git Bash Here"
+5. En consola ingresar el comando javac PuntoUno.java y dar enter
+6. En la siguiente linea ingresar java PuntoUno
+7. Ingresar la entrada y en la siguiente linea el termino
 
 ## Ejercicio 2
 ### Descripcion:
@@ -23,10 +24,11 @@ En este punto el usuario debe ingresar elemento por elemento para construir la l
 Para la ejecucion del codigo se debe de realizar los siguientes pasos:
 1. Descargar el archivo PuntoDos.java
 2. Guardarlo en una carpeta
-3. Ingresar a la carpeta y en la direccion de la parte superior escribir cmd
-4. En consola ingresa el comando javac PuntoDos.java y dar enter
-5. En la siguiente linea ingresar java PuntoDos
-6. Ingresar la entrada y en la siguiente linea el termino
+3. Ingresar a la carpeta
+4. Dar clic derecho y seleccionar "Open Git Bash Here"
+5. En consola ingresa el comando javac PuntoDos.java y dar enter
+6. En la siguiente linea ingresar java PuntoDos
+7. Ingresar la entrada y en la siguiente linea el termino
 
 ## Ejercicio 3
 ### Descripcion:
@@ -35,10 +37,11 @@ En este punto el usuario debe ingresar elemento por elemento para construir la l
 Para la ejecucion del codigo se debe de realizar los siguientes pasos:
 1. Descargar el archivo PuntoTres.java
 2. Guardarlo en una carpeta
-3. Ingresar a la carpeta y en la direccion de la parte superior escribir cmd
-4. En consola ingresa el comando javac PuntoTres.java y dar enter
-5. En la siguiente linea ingresar java PuntoTres
-6. Ingresar la entrada y en la siguiente linea el termino
+3. Ingresar a la carpeta
+4. Dar clic derecho y seleccionar "Open Git Bash Here"
+5. En consola ingresa el comando javac PuntoTres.java y dar enter
+6. En la siguiente linea ingresar java PuntoTres
+7. Ingresar la entrada y en la siguiente linea el termino
 
 ## Ejercicio 4
 ### Descripcion:
@@ -50,7 +53,8 @@ En este punto se cargan los elementos del inventario y se le muestra al usuario 
 Para la ejecucion del codigo se debe de realizar los siguientes pasos:
 1. Descargar el archivo PuntoCuatro.java
 2. Guardarlo en una carpeta
-3. Ingresar a la carpeta y en la direccion de la parte superior escribir cmd
-4. En consola ingresa el comando javac PuntoCuatro.java y dar enter
-5. En la siguiente linea ingresar java PuntoCuatro
-6. Ingresar la entrada y en la siguiente linea el termino
+3. Ingresar a la carpeta
+4. Dar clic derecho y seleccionar "Open Git Bash Here"
+5. En consola ingresa el comando javac PuntoCuatro.java y dar enter
+6. En la siguiente linea ingresar java PuntoCuatro
+7. Ingresar la entrada y en la siguiente linea el termino
