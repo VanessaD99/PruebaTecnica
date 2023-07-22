@@ -30,7 +30,7 @@ Para la ejecucion del codigo se debe de realizar los siguientes pasos:
 
 ## Ejercicio 3
 ### Descripcion:
-En este punto el usuario debe ingresar elemento por elemento para construir la lista, cuando no desee ingresar mas elementos debe ingresar una letra o palabra.Se realizo una funcion
+En este punto el usuario debe ingresar elemento por elemento para construir la lista, cuando no desee ingresar mas elementos debe ingresar una letra o palabra.Se realizo una funcion que permite agrupar los elementos repetidos de la lista ingresada en una matriz de salida que se muestra en consola.
 ### Ejecucion codigo:
 Para la ejecucion del codigo se debe de realizar los siguientes pasos:
 1. Descargar el archivo PuntoTres.java
@@ -42,6 +42,10 @@ Para la ejecucion del codigo se debe de realizar los siguientes pasos:
 
 ## Ejercicio 4
 ### Descripcion:
+En este punto se cargan los elementos del inventario y se le muestra al usuario tres opciones
+1. Si el usuario elige la opcion 1, se le solicita que ingrese el grupo, nombre del producto y la cantidad de producto. En el caso de que el nombre de producto exista se suman el inventario actual con la nueva cantidad ingresada
+2. Si el usuario elige la opcion 2, se muestra los productos y las cantidades de los 3 grupos grain,cleaning y grain
+3. Si el usuario elige la opcion 3, se finaliza la ejecución del codigo. 
 ### Ejecucion codigo:
 Para la ejecucion del codigo se debe de realizar los siguientes pasos:
 1. Descargar el archivo PuntoCuatro.java
