@@ -28,7 +28,7 @@ Para la ejecucion del codigo se debe de realizar los siguientes pasos:
 4. Dar clic derecho y seleccionar "Open Git Bash Here"
 5. En consola ingresa el comando javac PuntoDos.java y dar enter
 6. En la siguiente linea ingresar java PuntoDos
-7. Ingresar la entrada y en la siguiente linea el termino
+7. Ingresar los elementos de la lista y al finalizar ingresar letra o palabra
 
 ## Ejercicio 3
 ### Descripcion:
@@ -41,7 +41,7 @@ Para la ejecucion del codigo se debe de realizar los siguientes pasos:
 4. Dar clic derecho y seleccionar "Open Git Bash Here"
 5. En consola ingresa el comando javac PuntoTres.java y dar enter
 6. En la siguiente linea ingresar java PuntoTres
-7. Ingresar la entrada y en la siguiente linea el termino
+7. Ingresar los elementos de la lista y al finalizar ingresar letra o palabra
 
 ## Ejercicio 4
 ### Descripcion:
