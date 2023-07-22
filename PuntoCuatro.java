@@ -40,21 +40,24 @@ public class PuntoCuatro {
 
         showMenu();
         Scanner lectura = new Scanner (System.in);
-        Scanner scanner = new Scanner (System.in);
+        
         System.out.print("Su opcion: ");
 
         int opcion = lectura.nextInt();
         while (opcion!=3) {
             switch(opcion) {
                 case 1:
-                    scanner.useDelimiter("\\n");
+                    Scanner scanner = new Scanner (System.in);
                     System.out.print("Su opcion fue 1 ");
                     System.out.print("Por favor ingrese el grupo del producto (Nota: estos grupos son: dairy, cleaning y grain.) ");
                     String grupo = lectura.next();
-                    System.out.print("Por favor ingrese el nombre del producto ");
-                    String producto = scanner.next();
+
                     System.out.print("Por favor ingrese la cantidad producto ");
                     Integer cantidad = lectura.nextInt();
+
+                    System.out.print("Por favor ingrese el nombre del producto ");
+                    String producto="";
+                    producto += scanner.nextLine();
 
                     if("dairy".equals(grupo)){
                         addProduct(groups.get("dairy"), groupsStock.get("dairy"), producto, Integer.valueOf(cantidad));
@@ -78,6 +81,7 @@ public class PuntoCuatro {
             System.out.println("");
             System.out.println("");
             showMenu();
+            lectura = new Scanner (System.in);
             opcion = lectura.nextInt();
         }
 
