@@ -17,12 +17,33 @@ Para la ejecucion del codigo se debe de realizar los siguientes pasos:
 
 ## Ejercicio 2
 ### Descripcion:
-### Ejecucion codigo
+### Ejecucion codigo:
+Para la ejecucion del codigo se debe de realizar los siguientes pasos:
+1. Descargar el archivo PuntoUno.java
+2. Guardarlo en una carpeta
+3. Ingresar a la carpeta y en la direccion de la parte superior escribir cmd
+4. En consola ingresa el comando javac PuntoUno.java y dar enter
+5. En la siguiente linea ingresar java PuntoUno
+6. Ingresar la entrada y en la siguiente linea el termino
 
 ## Ejercicio 3
 ### Descripcion:
-### Ejecucion codigo
+### Ejecucion codigo:
+Para la ejecucion del codigo se debe de realizar los siguientes pasos:
+1. Descargar el archivo PuntoUno.java
+2. Guardarlo en una carpeta
+3. Ingresar a la carpeta y en la direccion de la parte superior escribir cmd
+4. En consola ingresa el comando javac PuntoUno.java y dar enter
+5. En la siguiente linea ingresar java PuntoUno
+6. Ingresar la entrada y en la siguiente linea el termino
 
 ## Ejercicio 4
 ### Descripcion:
-### Ejecucion codigo
+### Ejecucion codigo:
+Para la ejecucion del codigo se debe de realizar los siguientes pasos:
+1. Descargar el archivo PuntoUno.java
+2. Guardarlo en una carpeta
+3. Ingresar a la carpeta y en la direccion de la parte superior escribir cmd
+4. En consola ingresa el comando javac PuntoUno.java y dar enter
+5. En la siguiente linea ingresar java PuntoUno
+6. Ingresar la entrada y en la siguiente linea el termino
