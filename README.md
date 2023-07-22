@@ -57,4 +57,4 @@ Para la ejecucion del codigo se debe de realizar los siguientes pasos:
 4. Dar clic derecho y seleccionar "Open Git Bash Here"
 5. En consola ingresa el comando javac PuntoCuatro.java y dar enter
 6. En la siguiente linea ingresar java PuntoCuatro
-7. Ingresar la entrada y en la siguiente linea el termino
+7. Ingresar la opcion 1, 2 o 3
